@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hi there
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,tailwind,fastapi,nginx,docker,linux,kali" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" height="28" />
-  
-</div>
+Interested in AI, security, and building tools.
+
+Currently working on security tools that combine automation and AI.
+
+### Projects
+
+**[PatchTriage](https://github.com/d01ki/PatchTriage)**
+Evidence-driven patch prioritization.
+[Black Hat Europe 2026 Arsenal](https://blackhat.com/europe/arsenal/schedule/index.html?track%5B%5D=vulnerability-assessment#patchtriage-evidence-driven-patch-prioritization-56609)
+
+**[AIBOM Inspector](https://github.com/d01ki/AIBOM-Inspector)**
+AI supply chain analysis and visualization.
